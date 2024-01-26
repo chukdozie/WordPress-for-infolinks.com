@@ -2,6 +2,6 @@
  https://infolinks.com
 
 ## Plugins
- Google Drive Embedder
- Mailchimp for WP
- Sitepress Multilingual CMS
+ - Google Drive Embedder
+ - Mailchimp for WP
+ - Sitepress Multilingual CMS
